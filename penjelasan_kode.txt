@@ -1,0 +1,11 @@
+Baris 1-4: Mendefinisikan model pemrograman dan mengimpor pustaka yang dibutuhkan.
+Baris 6-9: Mendefinisikan data yang akan digunakan.
+Baris 11-37: Mendefinisikan bagian kode program. Pertama-tama, menampilkan judul program menggunakan fungsi MessageBox. Kemudian, meminta input angka pertama dan kedua menggunakan fungsi MessageBox dan fungsi StdIn. Setelah itu, melakukan operasi perkalian dan menampilkan hasilnya menggunakan fungsi MessageBox dan fungsi StdOut. Terakhir, keluar dari program menggunakan fungsi ExitProcess.
+Baris 39: Memulai program dengan label "start".
+Baris 44: Menggunakan fungsi MessageBox untuk menampilkan judul program.
+Baris 48-53: Meminta input angka pertama dan mengonversi input dari string ke integer menggunakan fungsi StdIn dan fungsi atodw.
+Baris 55-60: Meminta input angka kedua dan mengonversi input dari string ke integer menggunakan fungsi StdIn dan fungsi atodw.
+Baris 62-63: Melakukan operasi perkalian menggunakan instruksi mul dan menyimpan hasilnya di dalam register eax.
+Baris 65-70: Menampilkan hasil perkalian dan mengonversi hasil dari integer ke string menggunakan fungsi MessageBox dan fungsi dwtoa.
+Baris 72: Keluar dari program menggunakan fungsi ExitProcess.
+Baris 74: Akhir program.
